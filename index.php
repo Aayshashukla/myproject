@@ -6,7 +6,7 @@
     <title>School Management System</title>
 </head>
 <body>
-    <h1>My name is Aaysha</h1>
-    <h1>My surname is shukla</h1>
+    <h1>Student Management System</h1>
+    
 </body>
 </html>
