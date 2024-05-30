@@ -35,7 +35,7 @@
             <a class="nav-link active" href="#">Pricing</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownimg.png" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Dropdown
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -108,10 +108,28 @@
   </div>
   <!-- About us.... -->
   <section class="py-5">
-<div class="row">
-  <div class="col-lg-6"></div>
-  <div class="col-lg-6"></div>
-</div>
+   <div class="container">
+   <div class="row">
+      <div class="col-lg-6 col-md-12">
+        <h2>About<br> School Management System</h2>
+        <div>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam accusamus porro ducimus ea culpa dolore soluta necessitatibus accusantium 
+            perferendis, totam perspiciatis officia omnis laudantium minus ipsum fugiat esse distinctio libero reprehenderit consequuntur quos. Ullam, temporibus,
+             mollitia voluptas necessitatibus sapiente voluptate accusamus cumque corrupti vel quam molestias totam aperiam vero provident.</p>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam accusamus porro ducimus ea culpa dolore soluta necessitatibus accusantium 
+            perferendis, totam perspiciatis officia omnis laudantium minus ipsum fugiat esse distinctio libero reprehenderit consequuntur quos. Ullam, temporibus,
+             mollitia voluptas necessitatibus sapiente voluptate accusamus cumque corrupti vel quam molestias totam aperiam vero provident.</p>
+             
+        </div>
+        <div>
+      </div>
+      </div>
+      <!-- <div class="col-lg-6 col-md-12 " style="background-image: url(Images/img_lights.jpg); background-repeat:no-repeat">dghj</div> -->
+      <div class="col-lg-6 p-5">
+        <img src="Images/img_lights.jpg" alt="">
+      </div>
+    </div>
+   </div>
   </section>
   <!-- Making a section related to our course -->
   <section>
@@ -273,7 +291,7 @@
         <div class="col-lg-3">
           <div class="card mt-5">
             <div class="col-7 position-absolute" style="top:-50px">
-              <img src="aaysha.jpg" alt="" class="mw-100 border rounded-circle" style="height:100px;">
+              <img src="Images\aaysha.jpg" alt="" class="mw-100 border rounded-circle" style="height:100px;">
             </div>
 
             <div class="card-body pt-5 mt-3">
@@ -293,7 +311,7 @@
         <div class="col-lg-3">
           <div class="card mt-5">
             <div class="col-7 position-absolute" style="top:-50px">
-              <img src="aaysha.jpg" alt="" class="mw-100 border rounded-circle" style="height:100px;">
+              <img src="Images\aaysha.jpg" alt="" class="mw-100 border rounded-circle" style="height:100px;">
             </div>
 
             <div class="card-body pt-5 mt-3">
@@ -310,11 +328,11 @@
             </div>
           </div>
         </div>
-        
+
         <div class="col-lg-3">
           <div class="card mt-5">
             <div class="col-7 position-absolute" style="top:-50px">
-              <img src="aaysha.jpg" alt="" class="mw-100 border rounded-circle" style="height:100px;">
+              <img src="Images\aaysha.jpg" alt="" class="mw-100 border rounded-circle" style="height:100px;">
             </div>
 
             <div class="card-body pt-5 mt-3">
@@ -331,11 +349,11 @@
             </div>
           </div>
         </div>
-        
+
         <div class="col-lg-3">
           <div class="card mt-5">
             <div class="col-7 position-absolute" style="top:-50px">
-              <img src="aaysha.jpg" alt="" class="mw-100 border rounded-circle" style="height:100px;">
+              <img src="Images\aaysha.jpg" alt="" class="mw-100 border rounded-circle" style="height:100px;">
             </div>
 
             <div class="card-body pt-5 mt-3">
@@ -352,12 +370,13 @@
             </div>
           </div>
         </div>
-        
-        
+
+
 
       </div>
     </div>
   </section>
+
 
   </div>
   <!-- bootstrap 5 js link..... -->
